@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "name": "cristo redentor",
+      "budget": "1000",
+      "category": {
+        "id": "4",
+        "name": "Excurssões"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "category": {
+        "id": "3",
+        "name": "Pontos_Turisticos_Locais"
+      },
+      "name": "cruzeiro top",
+      "budget": "30000",
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Praias_Brasileiras"
+    },
+    {
+      "id": 2,
+      "name": "Viagens_Internacionais"
+    },
+    {
+      "id": 3,
+      "name": "Pontos_Turisticos_Locais"
+    },
+    {
+      "id": 4,
+      "name": "Excurssões"
+    },
+    {
+      "id": 5,
+      "name": "Cruzeiros"
+    }
+  ]
+}
