@@ -128,7 +128,6 @@ function Project() {
             setMessage('Passeio removido com sucesso!')
         })
         .catch((err) => console.log(err))
-
     }
 
     function toggleProjectForm() {

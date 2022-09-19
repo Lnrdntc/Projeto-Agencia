@@ -4,11 +4,36 @@
       "name": "cristo redentor",
       "budget": "1000",
       "category": {
-        "id": "4",
-        "name": "Excurssões"
+        "id": "5",
+        "name": "Cruzeiros"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 950,
+      "services": [
+        {
+          "name": "passeio de barco",
+          "cost": "200",
+          "description": "passeio a 2 de barco",
+          "id": "43d5e43c-420d-48cf-9b39-abdd51349bfc"
+        },
+        {
+          "name": "helicoptero",
+          "cost": "500",
+          "description": "aviao",
+          "id": "7c0f90b2-4437-4a68-95df-09b54035fd4f"
+        },
+        {
+          "cost": "50",
+          "name": "apé",
+          "description": "trilha",
+          "id": "eab0b5b7-fa20-427a-8741-ba2a2ead8591"
+        },
+        {
+          "name": "carro",
+          "cost": "200",
+          "description": "carro",
+          "id": "93471ede-f37f-4ffa-8396-4d6ce470be85"
+        }
+      ],
       "id": 1
     },
     {
